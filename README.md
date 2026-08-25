@@ -21,8 +21,7 @@ Strong on **Java / Spring Boot APIs**, **Brazilian fiscal integrations**, and **
 | Project | Role / evidence | Link |
 |---------|-----------------|------|
 | **[t3wv/nfse](https://github.com/t3wv/nfse)** | Upstream PR — local DANFSe PDF via Jasper (NT 008/2026) | [#55 (open)](https://github.com/t3wv/nfse/pull/55) |
-| **[rsynki](https://github.com/rsynki)** | Org member | [github.com/rsynki](https://github.com/rsynki) |
-| **[rsynki](https://github.com/rsynki)** (Synki) | Org member (public) | [github.com/rsynki](https://github.com/rsynki) |
+| **[rsynki](https://github.com/rsynki)** | Org member (public) | [github.com/rsynki](https://github.com/rsynki) |
 
 **Fork used for NFS-e work:** [amaica/nfse2](https://github.com/amaica/nfse2) (from `t3wv/nfse`).
 
