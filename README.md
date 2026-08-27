@@ -39,7 +39,7 @@ Strong on **Java / Spring Boot APIs**, **Brazilian fiscal integrations**, and **
 | **api-recognition-facenetMtcnn** | Face detect + embed + match as REST | Java, DL4J, FaceNet, MTCNN | [link](https://github.com/amaica/api-recognition-facenetMtcnn) |
 | **openalpr** | ALPR daemon/tooling experiments | OpenALPR / plate recognition | [link](https://github.com/amaica/openalpr) |
 | **sap-btp-pilot** | SemVer + promotion DEV/HOM/PROD | Git governance | [link](https://github.com/amaica/sap-btp-pilot) |
-| **quarkus-kafka-microservices** | Microservices study: Quarkus + Kafka + Postgres + Kafka UI | Quarkus 2.x, Kafka, PostgreSQL, Docker Compose | [link](https://github.com/amaica/quarkus-kafka-microservices) |
+| **quarkus-kafka-microservices** | Event-driven trade pipeline: CDI/Arc, Kafka emit/consume, OIDC + token propagation, Panache, Quartz, BFF OpenAPI | Quarkus 2.x, CDI, Kafka, OIDC, Panache, PostgreSQL, Docker | [link](https://github.com/amaica/quarkus-kafka-microservices) |
 
 ---
 
